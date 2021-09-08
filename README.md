@@ -19,4 +19,8 @@ Double.MAX_VALUE + 1
 
 ### Create a note about JSHELL
 
-#I missed this part but ill still commit
+# This time, edits on my computer
+* get code from GitHub
+* change directory to the one from the step above
+* modify text
+* send it back to Github
